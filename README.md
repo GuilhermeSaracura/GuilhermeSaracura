@@ -1,6 +1,6 @@
 ## Hi there, I'm Guilherme and welcome to my github profile.
 
-- 💻 Estudante de Engenharia de Computação - FACENS
+- 💻 Computer Engineering student - FACENS
 - 🗺️ Sorocaba/SP
 
 ## Tecnologies
